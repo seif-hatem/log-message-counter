@@ -1,3 +1,6 @@
+# pipeline
+
+![alt text](pipline.jpg)
 
 > [!NOTE]  
 > i assume you have hadoop, spark and flume installed in your machine
