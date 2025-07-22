@@ -34,7 +34,7 @@ jupyter notebook project.ipynb
 logs are stored in `/flume/project/{today's date}`
 
 
-![[hdfs.png]]
+![alt text](hdfs.png)
 
 >[!Note]
 >You can look for the analysis of logs at `project.ipynb` where you can see how many did every person sent message
