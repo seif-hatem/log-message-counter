@@ -2,6 +2,12 @@
 
 ![alt text](pipline.jpg)
 
+***
+
+# About the project
+
+This project simulates log generation and performs log analysis using a Big Data pipeline. A Python script randomly selects a person to send a message. Apache Flume captures these messages and stores them in HDFS. Then, Apache Spark reads the data from HDFS and calculates how many messages each person has sent.
+
 > [!NOTE]  
 > i assume you have hadoop, spark and flume installed in your machine
 
